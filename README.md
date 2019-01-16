@@ -1,0 +1,2 @@
+# Evil-Bot
+autorole Bot
