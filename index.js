@@ -12,7 +12,7 @@ bot.on('message', function(message){
 bot.on("guildMemberAdd", function(member)
 {
     member.send("Welcome to Evil Clan");
-    let memberRole = member.guild.roles.find("name", "Member");
+    let memberRole = member.guild.roles.find("name", "💥・membre");
     member.addRole(memberRole);
 });
 
